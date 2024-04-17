@@ -1,0 +1,30 @@
+Money spent 2000
+Category for spend tv
+Date of spending  
+Day: 2
+Month: 3
+Year: 4
+Money spent 2000
+Category for spend food
+Date of spending  
+Day: 1
+Month: 2
+Year: 3
+Storage: 1111
+
+Money spent 3000
+Category for spend food
+Date of spending  
+Day: 2
+Month: 3
+Year: 4
+Storage: 1111
+
+Money spent 4000
+Category for spend food
+Date of spending  
+Day: 5
+Month: 3
+Year: 2
+Storage: 1111
+
